@@ -1,3 +1,4 @@
-# Cultivo
+# Cultivo - A supplychain company
 
-[link to Website](https://tanishqqjain.github.io/Cultivo/)
+This is the landing page of cultivo.io. It is made using HTML/CSS/Javascript-jQuery
+
