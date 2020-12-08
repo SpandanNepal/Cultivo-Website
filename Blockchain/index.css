@@ -1,0 +1,85 @@
+body{
+  background-color: #075EF0;
+}
+@font-face {
+    font-family: 'product sans';
+    src: url('Fonts/Product Sans Regular.ttf');
+}
+*{
+  font-family: 'Noto Sans', sans-serif;
+}
+/*navbar css*/
+#navbar{
+  background-color: white;
+  border-bottom: white;
+  height:80px;
+}
+.logo{
+  height:80px;
+}
+#nav-button{
+  padding: 8px 12px;
+  margin-left:10px;
+  margin-right:10px;
+  border: none;
+  line-height: 30px;
+  width: 84px;
+  border-radius: 10px;
+  background-color: #075ef0;
+}
+#nav-button1{
+  padding: 8px 12px;
+  margin-left:10px;
+  margin-right:10px;
+  border: none;
+  line-height: 30px;
+  width: 110px;
+  border-radius: 10px;
+}
+/*navbar css*/
+.card_class{
+  width:280px;
+  height:250px;
+  border: 1px solid #075EF0;
+  background-color: white;
+  padding: 0 20px;
+  margin: 0 auto;
+  border-radius:10px;
+  cursor: pointer;
+
+}
+.card_number{
+  margin:0;
+  padding:10px;
+  color:#075EF0;
+
+}
+.box_class{
+  height:40px;
+  background: #075EF0;
+  color:white;
+  margin: 0 auto;
+  border-radius: 2px;
+}
+.box_class_text{
+  padding:10px 20px;
+}
+.info_small{
+  height: 130px;
+  width: 130px;
+  border: 1px solid #6A9EF6;
+  border-radius: 5px;
+  text-align: center;
+  color: #6A9EF6;
+  margin: 0 auto;
+}
+
+
+footer{
+  color: black;
+  background-color: white;
+}
+
+h1{
+  margin-bottom:40px;
+}

@@ -1,0 +1,63 @@
+body{
+  background-color: #f7f7f7;
+}
+*{
+  font-family: 'Noto Sans', sans-serif;
+}
+/*navbar css*/
+#navbar{
+  background-color: white;
+  border-bottom: white;
+  height:80px;
+}
+.logo{
+  height:80px;
+}
+#nav-button{
+  padding: 8px 12px;
+  margin-left:10px;
+  margin-right:10px;
+  border: none;
+  line-height: 30px;
+  width: 84px;
+  border-radius: 10px;
+  background-color: #075ef0;
+}
+#nav-button1{
+  padding: 8px 12px;
+  margin-left:10px;
+  margin-right:10px;
+  border: none;
+  line-height: 30px;
+  width: 110px;
+  border-radius: 10px;
+}
+#careers{
+  padding: 8px 12px;
+  margin-top: 75px;
+  margin-left:10px;
+  margin-right:10px;
+  border: none;
+  line-height: 30px;
+  width: 200px;
+  height:50px;
+  border-radius: 10px;
+}
+#contacts{
+  margin-top: 80px;
+  padding-top: 48px;
+}
+/*navbar css*/
+
+img{
+  border-radius:50%;
+}
+
+footer{
+  color: black;
+  background-color: white;
+}
+
+h1{
+  margin-bottom:40px;
+}
